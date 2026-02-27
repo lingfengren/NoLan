@@ -98,7 +98,7 @@ output_ids = model.generate(
 - **The efficacy of NoLan on MME**
 ![exp3](figs/mme.png)
 
-- **Please refer to [our paper](https://arxiv.org/abs/2311.16922) for detailed experimental results.**
+- **Please refer to [our paper](https://arxiv.org/abs/2602.22144) for detailed experimental results.**
 
 
 ## 📌 Examples
